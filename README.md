@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lakshay-Jain-1
 - 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ...Javascript
+- 🌱 I’m currently understanding ...Backend 
 - 💞️ I’m looking to collaborate on ...projects regarding web development
 - 📫 How to reach me ...lakshaybusiness.12@gmail.com
 
