@@ -74,8 +74,5 @@ Database & Deployment
 
 **Always learning • Always building • Always innovating**
 
----
-
-*Let's connect and build something amazing together!*
 
 </div>
